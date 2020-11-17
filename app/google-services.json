@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "767477853699",
+    "firebase_url": "https://agrimart-28b3e.firebaseio.com",
+    "project_id": "agrimart-28b3e",
+    "storage_bucket": "agrimart-28b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767477853699:android:2276b434f38175ea",
+        "android_client_info": {
+          "package_name": "com.project.undefine.agrimart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767477853699-cis8uj3mf61cse7qet7d6tenf4rbjj61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.undefine.agrimart",
+            "certificate_hash": "1126787af74a5c7645b64791da0ac8b4494eb1a8"
+          }
+        },
+        {
+          "client_id": "767477853699-j82qdppp7r9pmo75kei706jtd7urpblq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.undefine.agrimart",
+            "certificate_hash": "7f3b5b25892c13924572c42e194b2eb2034dd38e"
+          }
+        },
+        {
+          "client_id": "767477853699-ho80olmq4l5h9qq0i1fsubr5qf8brf2n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "767477853699-ho80olmq4l5h9qq0i1fsubr5qf8brf2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuke9YPNC4e9oc5JdtEyEgpa0aC9ufC3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767477853699-ho80olmq4l5h9qq0i1fsubr5qf8brf2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
